@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ### Hello, I'm Thanh-Linh Nguyen.
 
 <!-- [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/) -->
