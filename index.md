@@ -6,7 +6,7 @@
 
 I'm working as a Research Assistant at Posts and Telecommunications Institute of Technology (PTIT).
 
-My research interest includes Multi-Access Edge Computing and IoT. Find more about me:
+My research interest includes Reinforcement Learning application in Multi-Access Edge Computing and Communication System Design and Optimization. Find more about me:
 
 - [CV](CV-Thanh-Linh-Nguyen.pdf)
 - [Github](https://github.com/linhnt31)
